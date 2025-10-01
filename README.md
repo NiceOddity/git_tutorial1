@@ -5,3 +5,4 @@ Git tutorial 1 for the Robotics Society Git Crash Course
 Enter some text below this line:
 --------------------
 i dont know what is going on
+i hate working with computers 
